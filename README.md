@@ -1,4 +1,4 @@
-# Smart Earthquake Impact Reduction System
+# Smart Earthquake Early Warning System
 
 ## Introduction
 This project helps in detecting earthquake vibrations and provides early warning alerts.
