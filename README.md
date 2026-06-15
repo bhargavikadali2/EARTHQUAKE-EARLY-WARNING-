@@ -1,2 +1,20 @@
-# EARTHQUAKE-EARLY-WARNING-
-This project presents an innovative approach to earthquake safety by combining early warning, energy conversion, and structural protection. While complete prevention is not possible, reducing impact can save lives and improve disaster preparedness.
+# Smart Earthquake Impact Reduction System
+
+## Introduction
+This project helps in detecting earthquake vibrations and provides early warning alerts.
+
+## Components
+- Arduino UNO
+- Vibration Sensor
+- Buzzer
+- LED
+- GSM Module
+
+## Features
+- Real-time earthquake detection
+- Alert generation
+- SMS notification
+- Web demo interface
+
+## Conclusion
+Earthquakes cannot be prevented, but their impact can be reduced using early warning systems.
